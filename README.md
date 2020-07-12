@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://raw.githubusercontent.com/pawlean/pawlean/master/perun-header.png" alt="Perun"  />
+<img src="./perun-header.png" alt="Perun"  />
 
 # 👋🏻 Hi there! I'm Ranjeet Singh, I'm a...
 
@@ -26,5 +26,5 @@ I like to build stuff related to web and mobile 💪🏼
 # 💌 Get in touch
 
 - 📸 IG [@_rabbdabanda](https://instagram.com/_rabbdabanda)
-- 💜 [I spent way too long on my personal site for you not to visit it](https://paulinenarvas.com)
+- 💜 [I spent way too long on my personal site for you not to visit it](https://ranjeetsingh.me)
 
