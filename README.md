@@ -31,7 +31,3 @@ I like to build stuff related to web and mobile 💪🏼
 
 - 📸 IG [@_bawa520](https://instagram.com/_bawa520)
 - 💜 [I spent way too long on my personal site for you not to visit it](https://ranjeetsingh.me)
-
-### 📊 Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=perun-01&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
