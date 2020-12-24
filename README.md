@@ -30,4 +30,4 @@ I like to build stuff related to web and mobile 💪🏼
 ### 💌 Get in touch
 
 - 📸 IG [@_bawa520](https://instagram.com/_bawa520)
-- 💜 [I spent way too long on my personal site for you not to visit it](https://ranjeetsingh.me)
+- 💜 [I spent way too long on my personal site for you not to visit it](https://reactdev.me)
